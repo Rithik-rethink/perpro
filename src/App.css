@@ -1,0 +1,25 @@
+
+
+body {
+  font-family: 'Times New Roman', Times, sans-serif;
+  background-color: #f4f4f4;
+}
+
+a {
+  color: rgb(42, 44, 42);
+  text-decoration: none;
+}
+.Navbar {
+  position: absolute;
+  float: center;
+  margin-left:11%;
+  margin-right:11%;
+  font-variant: unset;
+  font-size:1.2em;
+  font-family: sans-serif;
+  
+}
+.Navbar-inverse .Navbar-Brand{color:white}
+
+
+
